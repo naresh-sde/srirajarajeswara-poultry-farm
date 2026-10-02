@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SRR Poultry Farm">
+  <defs>
+    <linearGradient id="fBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFC53D"/>
+      <stop offset="1" stop-color="#E23E2E"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#fBg)"/>
+  <path d="M32 12c9 0 15.5 8.7 15.5 17.7S41 49 32 49s-15.5-9.3-15.5-19.3S23 12 32 12z" fill="#FFFDF7"/>
+  <circle cx="32" cy="31" r="9" fill="#0F3A2E"/>
+  <circle cx="32" cy="31" r="4.6" fill="#FFC53D"/>
+</svg>

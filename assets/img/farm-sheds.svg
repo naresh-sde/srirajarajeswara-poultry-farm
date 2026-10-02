@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="Layer house sheds with laying hens">
+  <defs>
+    <linearGradient id="s1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#BFEAFF"/>
+      <stop offset=".6" stop-color="#E8F6FF"/>
+      <stop offset="1" stop-color="#D6EFE2"/>
+    </linearGradient>
+    <linearGradient id="roof2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9AA6AE"/>
+      <stop offset=".5" stop-color="#E6ECF0"/>
+      <stop offset="1" stop-color="#98A4AC"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="440" fill="url(#s1)"/>
+  <circle cx="540" cy="72" r="42" fill="#FFE9A8"/>
+  <g fill="#fff" opacity=".85">
+    <ellipse cx="140" cy="70" rx="90" ry="20"/>
+    <ellipse cx="200" cy="58" rx="60" ry="16"/>
+    <ellipse cx="380" cy="120" rx="70" ry="16"/>
+  </g>
+  <rect x="0" y="300" width="640" height="140" fill="#7CC49B"/>
+  <g stroke="#5FA97F" stroke-width="3" opacity=".6">
+    <path d="M0 340h640M0 380h640M0 420h640"/>
+  </g>
+  <g>
+    <rect x="40" y="150" width="250" height="150" rx="8" fill="#F5F2E7"/>
+    <path d="M22 150 165 78 308 150z" fill="url(#roof2)"/>
+    <g fill="#2F4A56">
+      <rect x="66" y="180" width="44" height="34" rx="3"/>
+      <rect x="128" y="180" width="44" height="34" rx="3"/>
+      <rect x="190" y="180" width="44" height="34" rx="3"/>
+    </g>
+    <rect x="118" y="236" width="60" height="64" rx="4" fill="#B4542F"/>
+  </g>
+  <g>
+    <rect x="330" y="170" width="270" height="130" rx="8" fill="#F5F2E7"/>
+    <path d="M314 170 465 106 616 170z" fill="url(#roof2)"/>
+    <g fill="#2F4A56">
+      <rect x="356" y="196" width="42" height="30" rx="3"/>
+      <rect x="416" y="196" width="42" height="30" rx="3"/>
+      <rect x="476" y="196" width="42" height="30" rx="3"/>
+      <rect x="536" y="196" width="42" height="30" rx="3"/>
+    </g>
+    <rect x="410" y="240" width="58" height="60" rx="4" fill="#B4542F"/>
+  </g>
+  <g transform="translate(250 318) scale(.9)">
+    <path d="M0 30c-18-4-26-22-18-36 7-12 24-19 38-16 5-16 25-25 42-17 11 5 18 15 19 25 15-2 28 7 32 21 3 16-7 30-23 34-24 7-72 8-90-11z" fill="#FFFDF6"/>
+    <path d="M96 14c12-4 22 4 24 13 2 10-4 18-14 20-6-12-10-22-10-33z" fill="#E6DCC8"/>
+    <circle cx="118" cy="30" r="4" fill="#1B1B1B"/>
+    <path d="M126 34l12 4-11 5z" fill="#FFC53D"/>
+    <g stroke="#E23E2E" stroke-width="5" stroke-linecap="round">
+      <path d="M26 54v16M48 54v16M70 52v16"/>
+    </g>
+  </g>
+</svg>

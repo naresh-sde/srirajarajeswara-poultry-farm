@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-label="Quality grading and lamp inspection of eggs">
+  <defs>
+    <linearGradient id="q1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F3A2E"/>
+      <stop offset="1" stop-color="#1E6B4F"/>
+    </linearGradient>
+    <radialGradient id="qglow" cx=".5" cy=".2" r=".7">
+      <stop offset="0" stop-color="#FFE9A8" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#FFE9A8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="eg4" x1=".3" y1="0" x2=".7" y2="1">
+      <stop offset="0" stop-color="#FFFDF7"/>
+      <stop offset="1" stop-color="#EADCC2"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="440" rx="0" fill="url(#q1)"/>
+  <rect width="640" height="440" fill="url(#qglow)"/>
+  <g opacity=".25" stroke="#8FD3B4" stroke-width="2">
+    <path d="M0 110h640M0 330h640"/>
+  </g>
+  <rect x="60" y="90" width="300" height="12" rx="6" fill="#7FE0B6" opacity=".7"/>
+  <path d="M140 102 110 168h60z" fill="#FFE9A8" opacity=".9"/>
+  <ellipse cx="140" cy="248" rx="120" ry="26" fill="#FFF3D0" opacity=".9"/>
+  <g fill="url(#eg4)" stroke="#D3C1A0" stroke-width="2">
+    <ellipse cx="76" cy="238" rx="26" ry="33"/>
+    <ellipse cx="140" cy="228" rx="26" ry="33"/>
+    <ellipse cx="204" cy="238" rx="26" ry="33"/>
+    <ellipse cx="108" cy="192" rx="25" ry="32"/>
+    <ellipse cx="172" cy="192" rx="25" ry="32"/>
+  </g>
+  <g fill="#F0930F" opacity=".85">
+    <ellipse cx="134" cy="232" rx="8" ry="10"/>
+    <ellipse cx="198" cy="242" rx="8" ry="10"/>
+    <ellipse cx="166" cy="196" rx="8" ry="10"/>
+  </g>
+  <g transform="translate(400 120)">
+    <rect x="0" y="0" width="180" height="130" rx="14" fill="#0B2C22" stroke="#2C8A66" stroke-width="3"/>
+    <rect x="16" y="18" width="148" height="72" rx="8" fill="#0F3A2E"/>
+    <path d="M32 66l24-22 20 16 26-30 38 36" stroke="#7FE0B6" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="140" cy="46" r="8" fill="#FFC53D"/>
+    <g fill="#8FD3B4" opacity=".55">
+      <rect x="24" y="104" width="40" height="8" rx="4"/>
+      <rect x="74" y="104" width="60" height="8" rx="4"/>
+    </g>
+  </g>
+  <g transform="translate(430 290)">
+    <rect x="0" y="0" width="130" height="66" rx="12" fill="#FFC53D"/>
+    <text x="65" y="42" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#0F3A2E" text-anchor="middle">100%</text>
+  </g>
+</svg>

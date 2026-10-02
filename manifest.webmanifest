@@ -1,0 +1,22 @@
+{
+  "name": "Sri Rajarajeswara Poultry Farm — Bulk Eggs Telangana",
+  "short_name": "SRR Poultry",
+  "description": "25,000-bird layer farm supplying graded, sanitised bulk eggs in trays and cartons across Telangana. Call 70956 71881.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F3A2E",
+  "theme_color": "#0F3A2E",
+  "lang": "en-IN",
+  "categories": ["food", "business", "shopping"],
+  "icons": [
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/img/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Bulk order on WhatsApp", "url": "/#order" },
+    { "name": "Rate card", "url": "/#pricing" },
+    { "name": "Contact", "url": "/#contact" }
+  ]
+}

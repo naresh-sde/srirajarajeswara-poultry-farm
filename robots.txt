@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+# Build tools / previews
+Disallow: /cgi-bin/
+Disallow: /api/
+
+Sitemap: https://srirajarajeswara-poultry.netlify.app/sitemap.xml
