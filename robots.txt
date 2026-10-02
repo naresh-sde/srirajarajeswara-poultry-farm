@@ -6,4 +6,4 @@ Disallow: /404.html
 Disallow: /cgi-bin/
 Disallow: /api/
 
-Sitemap: https://srirajarajeswara-poultry.netlify.app/sitemap.xml
+Sitemap: https://naresh-sde.github.io/srirajarajeswara-poultry-farm/sitemap.xml
